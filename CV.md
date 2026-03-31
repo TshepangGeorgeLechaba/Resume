@@ -40,7 +40,7 @@ Hoërskool Warmbad
   - Public Speaking
   - Adaptability & Quick Learning
 
----
+
 
 ## 🏆 Achievements
 
@@ -48,7 +48,7 @@ Hoërskool Warmbad
 - Participated in AFRI Hack Connect 2025  
 - Dean’s Special Award for Multimedia Creativity & Excellent Teamwork  
 
----
+
 
 ## 📞 References
 
@@ -60,3 +60,16 @@ Lecturer, CPUT
 **Hoërskool Warmbad**  
 📞 014 736 2166  
 📧 warries1@mosmail.co.za  
+
+
+## 🎥 Mock Interview
+
+<video width="600" controls>
+  <source src="mock-interview.mp4" type="video/mp4">
+</video>
+
+
+
+
+
+
